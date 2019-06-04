@@ -1,0 +1,5 @@
+#pragma once
+
+#define GRAVE_ESC_CTRL_OVERRIDE
+#define GRAVE_ESC_GUI_OVERRIDE
+#define GRAVE_ESC_ALT_OVERRIDE
